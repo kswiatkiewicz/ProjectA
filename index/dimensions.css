@@ -1,0 +1,153 @@
+section{
+  width:80%;
+  margin:0 auto;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"reverse-header","root_repo":"repo/blockfile"; }]*/
+
+#s1 figure{
+  width: 170px;
+  height: 90px;
+  margin: 1em;
+}
+
+#s3{
+    margin: 5% auto;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"reverse-header","root_repo":"repo/blockfile"; }]*/
+
+i.menu-ico{
+  font-size:2.5em;
+  float:right;
+  margin:1em;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"reverse-header","root_repo":"repo/blockfile"; }]*/
+
+#s3 > .bx .bx-body{
+  font-weight: 300;
+  text-align: center;
+}
+#s3 > .bx .bx-body h2{
+  font-weight: 300;
+  font-size: 2.4em;
+  line-height: 1em;
+  margin: 0.1em auto;
+  width:90%;
+
+}
+#s3 > .bx .bx-body p{
+  font-weight: 300;
+  font-size: 0.8em;
+  width:90%;
+  margin: 0.1em auto;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"basic-flex","root_repo":"repo/blockfile"; }]*/
+#s4 > .bx .bx-body{
+  padding: 1em;
+  text-align: center;
+}
+/* [element:double-rect] */
+#s4 > .bx .bx-body h2{
+  letter-spacing: 0.18em;
+  font-size: 0.8em;
+  line-height: 1em;
+}
+#s4 > .bx .bx-body p{
+  font-weight: 300;
+  font-size: 0.7em;
+}
+#s4 > .bx:last-child{
+  margin-top: -10px;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-left","root_repo":"repo/blockfile"; }]*/
+#s5 .bx{
+  flex: 0 0 33.33%;
+}
+#s5 .bg-wrapper{
+    margin: 1%;    
+    padding-bottom: 100%;
+}
+#s5 > .bx .bx-body{  
+
+  width: 100%;
+  bottom: 0px;
+
+ 
+}
+#s5 > .bx .bx-body h2{
+  letter-spacing: 0.1em;
+  font-size: 0.9em;
+  font-weight: 400;
+  margin: 1em;
+}
+#s5 > .bx .bx-body p{
+  font-weight: 300;
+  font-size: 0.8em;
+  margin: 0 1em 1em;
+}
+#s5 .material-icons{
+  margin-right: 0.2em;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right-vertical","root_repo":"repo/blockfile"; }]*/
+#s6-wraper{
+  width:50%;
+}
+#s6{
+  display: flex;
+  width:100%;
+  margin:5% 0;
+  padding-bottom:5%;
+  margin-left:-20%;
+}
+#s6 article{
+  -webkit-transition: margin 2s, background-color 1s; /* Safari */
+  transition: margin 2s, background-color 1s;
+ }
+#s6 > .bx .bx-body{
+  margin-top:10%;
+  padding-top:5%;
+  text-align: center;
+}
+#s6 > .bx .bx-body h2{
+  letter-spacing: 0.18em;
+  font-size: 0.8em;
+  line-height: 1em;
+  font-weight: 300;   
+}
+#s6 > .bx .bx-body p{
+  font-size: 0.8em;
+  font-weight: 300;
+  margin:5%;
+}
+
+
+/*[UiGEN section]*/
+/*[{"element_name":"pins","root_repo":"repo/blockfile"; }]*/
+#s7 {
+  width:100%;
+}
+#s7 > .bx .bx-body{
+  text-align:center;
+  padding: 5%;
+}
+#s7 > .bx .bx-body h2{
+  letter-spacing: 0.1em;
+  font-size: 1.4em;
+  font-weight: 300;
+}
+#s7 > .bx .bx-body p{
+  font-weight: 300;
+  font-size: 0.8em;
+}
+
