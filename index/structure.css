@@ -1,0 +1,110 @@
+#container-1{
+	display:flex;
+	position: relative;
+}
+
+#container-2{
+	padding: 0;
+	overflow: hidden;
+}
+
+
+#container-2-1{
+	margin: 2% -10%;
+	padding: 0 10%;
+}
+/*[!]*/
+
+/*[UiGEN section]*/
+/*[{"element_name":"reverse-header","root_repo":"repo/blockfile"; }]*/
+#s1 > .bx .bg-wrapper .bx-body{
+	display: flex;
+	flex-direction: column-reverse;
+}
+/*[!]*/
+
+/*[UiGEN section]*/
+/*[{"element_name":"basic-flex","root_repo":"repo/blockfile"; }]*/
+#s2{
+	/*#s2.section{*/
+	display: flex;
+	justify-content: space-between;
+
+}
+/*[!]*/
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-left","root_repo":"repo/blockfile"; }]*/
+
+/*[!]*/
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right-vertical","root_repo":"repo/blockfile"; }]*/
+#s4-wraper{
+	float:right;
+}
+#s4{
+	display:flex;
+	display: -webkit-flex;
+	justify-content: space-between;
+}
+#s4-after{
+	clear:both;
+}
+/*[!]*/
+#s5{
+	display:flex;
+	flex-wrap: wrap;
+
+}
+#s5 .bg-wrapper{
+	position: relative;
+}
+#s5 .bx-body{
+	position: absolute;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-left","root_repo":"repo/blockfile"; }]*/
+
+
+#s6 .bx{
+    flex:0 0 20%;
+}
+#s6 i{
+	font-size: 4em;
+}
+#s6 article:nth-child(odd){
+	background-color: rgba(255, 255, 255, 0.5);
+}
+#s6 article:nth-child(even){
+	background-color: rgba(255, 255, 255, 0);
+}
+
+/*[!]*/
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+#s7-wraper{
+
+}
+#s7{
+
+}
+#s7-after{
+
+}
+/*[!]*/
+
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+#s9{
+	display:flex;
+	display: -webkit-flex;
+	flex-wrap:wrap;
+}
+#s9 > .bx{
+	flex: 0 0 33.33%;
+}
+/*[!]*/
