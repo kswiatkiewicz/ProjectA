@@ -1,0 +1,120 @@
+main{
+	font-family: Open Sans,sans-serif;
+}
+#container-1{
+	box-shadow: 0px 3px 3px #B7B7B7;
+
+}
+#container-2{
+	color:#193966;
+	background: linear-gradient(to bottom, rgba(186,200,219,1) 0%, rgba(237,237,237,1) 100%);
+}
+
+#container-2-1{
+	color:#193966;
+	background-color: rgba(255,255,255,0.5);
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+#s1 figure{
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+#s2 i.menu-ico:hover{
+	cursor:pointer;
+}
+#s2{
+	-webkit-transition: right .6s; /* Safari */
+	transition: right .6s;
+	
+}
+#s2 a{
+	color: #6F8098;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: block;
+	line-height: 3em;
+	border-top: 3px solid #A7B1C0;
+	padding: 0px 20px;
+	font-size: 0.9em;
+}
+#s2 a:hover{
+	text-decoration: underline;
+	background-color: #C82F2F;
+	color:#fff;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+#s3 > .bx .bg-wrapper{
+	/*background-size: cover;	*/
+	background-repeat: no-repeat;
+}
+#s3 > .bx .bg-wrapper .bx-body{
+	color:#193966;
+}
+#s3 > h2{
+	text-shadow: 0px 0px 0px rgb(255, 255, 255);
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+
+#s4 > .bx:last-child{
+	margin-top: -10px;
+	background-color: rgb(200, 47, 47);
+	border-bottom: 10px solid rgb(200, 47, 47);
+	color:#fff;
+}
+#s4 > .bx .bx-body{
+
+}
+#s4 > .bx .bx-body h2{
+  text-transform: uppercase;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+#s5 .bg-wrapper{
+	background-size: cover;
+	/*filter:grayscale(100%);*/
+}
+#s5 > .bx .bx-body{
+	background-color: #193966;
+	color: rgb(255, 255, 255);
+}
+#s5 > .bx .bx-body h2{
+  text-transform: uppercase;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+
+#s6 > .bx .bx-body{
+
+}
+#s6 > .bx .bx-body h2{
+	color: #193966;
+	text-transform: uppercase;
+}
+#s6 > .bx .bx-body p{
+	color: #193966;
+}
+
+/*[UiGEN section]*/
+/*[{"element_name":"rdouble-rect-right","root_repo":"repo/blockfile"; }]*/
+#s7{
+	background-color: #C82F2F;
+	color:#fff;
+}
+#s7 > .bx .bx-body h2{
+  text-transform: uppercase;
+}
+#s7 > .bx .bx-body h2 a{
+  color: #000;
+}
+
